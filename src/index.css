@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+      font-family: "Libre Franklin", sans-serif;
+    background-color: #141414;
+    color: #ffffff;
+  }
+}
